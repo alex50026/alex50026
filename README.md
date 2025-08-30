@@ -39,13 +39,10 @@
 
 ## 📊 GitHub Analytics
 
-![C++](https://img.shields.io/badge/C++-34.5%25-00599C?logo=cplusplus&logoColor=white)  
-![C](https://img.shields.io/badge/C-16%25-A8B9CC?logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-10%25-4479A1?logo=mysql&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-10%25-7F52FF?logo=kotlin&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-10%25-3776AB?logo=python&logoColor=white)  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alex50026&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex50026&layout=compact&theme=tokyonight" alt="languages" />
+</p>
 ---
 
 ## 🌐 Connect with Me
