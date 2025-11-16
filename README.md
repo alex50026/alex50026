@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hey there! I'm Alexander Aponte</h1>
-<h3 align="center">Systems Engineering Student | Cybersecurity | Databases | Artificial Intelligence</h3>
+alex@github:~$ whoami
+➤ Alexander Aponte  
+➤ Systems Engineering Student  
+➤ Cybersecurity | Databases | AI
 
 ---
 
