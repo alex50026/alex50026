@@ -1,7 +1,4 @@
-alex@github:~$ whoami
-➤ Alexander Aponte  
-➤ Systems Engineering Student  
-➤ Cybersecurity | Databases | AI
+<p align="center"> <img src="https://i.gifer.com/7VE.gif" width="200px"/> </p>
 
 ---
 
