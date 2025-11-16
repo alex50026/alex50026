@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.gifer.com/7VE.gif" width="200px"/> </p>
+<h1 align="center">👋 Hey there! I'm Alexander Aponte</h1> <h3 align="center">Systems Engineering Student | Cybersecurity | Databases | Artificial Intelligence</h3>
 
 ---
 
@@ -21,6 +21,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,nodejs,express" height="55"/> </p>
+
 **Databases & Cloud:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
@@ -28,11 +30,15 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker" height="55"/> </p>
+
 **Tools & Version Control:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VSCode-0078D4?logo=visual-studio-code&logoColor=white) 
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" height="55"/> </p>
 
 ---
 
@@ -42,6 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alex50026&show_icons=true&theme=tokyonight" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex50026&layout=compact&theme=tokyonight" alt="languages" />
 </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alex50026&show_icons=true&theme=radical&border_radius=10&hide_title=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex50026&layout=compact&theme=radical&border_radius=10"/> </p>
 ---
 
 ## 🌐 Connect with Me
@@ -53,3 +61,4 @@
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
+<p align="center"> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"/> </a> <a href="mailto:tuemail@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge"/> </a> </p>
