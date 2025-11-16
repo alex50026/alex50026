@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-<h1 align="center">👋 Hey there! I'm Alexander Aponte</h1> <h3 align="center">Systems Engineering Student | Cybersecurity | Databases | Artificial Intelligence</h3>
+<h1 align="center">👋 Hey there! I'm Alexander Aponte</h1>
 <p align="center"> <img src="https://en.wikipedia.org/wiki/Nerd" width="200px"/> </p>
 
 ---
