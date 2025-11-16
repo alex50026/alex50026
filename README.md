@@ -1,13 +1,14 @@
-█████╗ ██╗     ███████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗ ███████╗██████╗ 
-██╔══██╗██║     ██╔════╝╚██╗██╔╝██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔══██╗
-███████║██║     █████╗   ╚███╔╝ ███████║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
-██╔══██║██║     ██╔══╝   ██╔██╗ ██╔══██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
-██║  ██║███████╗███████╗██╔╝ ██╗██║  ██║██║ ╚████║██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Cybersecurity+Enthusiast;Database+Architect;AI+Developer;Always+Learning..." alt="Typing SVG" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alexander%20Aponte&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Systems%20Engineering%20Student&descSize=30&descAlignY=55" />
+```
+    ___    __                              __         
+   /   |  / /__  _  ______ _____  ____/ /__  _____
+  / /| | / / _ \| |/_/ __ `/ __ \/ __  / _ \/ ___/
+ / ___ |/ /  __/>  </ /_/ / / / / /_/ /  __/ /    
+/_/  |_/_/\___/_/|_|\__,_/_/ /_/\__,_/\___/_/     
+```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Database+Architect+%F0%9F%97%84%EF%B8%8F;AI+Developer+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <h1 align="center">👋 Hey there! I'm Alexander Aponte</h1>
