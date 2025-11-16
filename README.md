@@ -1,24 +1,15 @@
-<div align="center">
-👾 ALEXANDER APONTE 👾
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student+%F0%9F%8E%93;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Database+Architect+%F0%9F%97%84%EF%B8%8F;AI+Developer+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗   ║
-║   ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝   ║
-║   ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗     ║
-║   ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝     ║
-║   ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗   ║
-║    ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝   ║
-║                                                                ║
-║              TO MY DIGITAL PLAYGROUND! 🎮                     ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+
 <h1 align="center">👋 Hey there! I'm Alexander Aponte</h1>
-<p align="center"> <img src="https://en.wikipedia.org/wiki/Nerd" width="200px"/> </p>
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Cybersecurity+Enthusiast;Database+Architect;AI+Developer;Always+Learning..." alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<p align="center"> <img src="https://i.pinimg.com/originals/08/4a/92/084a925dd6a5cc7c47ea3b916efcd259.gif" width="200px"/> </p> 
+
 
 ---
 
