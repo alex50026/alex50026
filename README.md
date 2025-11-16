@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Alexander Aponte</h1> <h3 align="center">Systems Engineering Student | Cybersecurity | Databases | Artificial Intelligence</h3>
-<p align="center"> <img src="https://i.gifer.com/7VE.gif](https://tenor.com/es-US/view/nerd-emoji-nerdge-gif-23738139" width="200px"/> </p>
+<p align="center"> <img src="[https://i.gifer.com/7VE.gif](https://tenor.com/es-US/view/nerd-emoji-nerdge-gif-23738139](https://tenor.com/es-US/view/erm-aksuali-veli-vel-nerd-nerd-emoji-gif-11908435316515627035)" width="200px"/> </p>
 ---
 
 ## 🔎 About Me
